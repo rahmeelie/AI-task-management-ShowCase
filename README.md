@@ -1,2 +1,3 @@
-# Ai-task-management
-AI-powered task and productivity management platform with natural-language task, note, category, priority, and deadline management.
+# AI Task Management
+
+A full-stack productivity platform with an AI assistant for managing tasks and notes through natural-language commands.
